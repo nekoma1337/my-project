@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Second-subfolder"
   ],
-  "SelectedNode": "\\feature-file.txt",
+  "SelectedNode": "\\Second-subfolder\\Fifth-file.txt",
   "PreviewInSolutionExplorer": false
 }
